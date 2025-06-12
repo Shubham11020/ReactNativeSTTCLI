@@ -1,8 +1,8 @@
 Git clone
 
-Npm install
+npm install
 
-Npx react-native start
+npx react-native start
 
 npx react-native run-android       
 
